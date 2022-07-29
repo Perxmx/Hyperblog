@@ -1,4 +1,4 @@
-# Hyperblog :fa-hand-o-right: :fa-hand-o-left:
+# **Hyperblog **
 Blog de prueba para el [Curso de Git y Github](https://platzi.com/cursos/git-github/) de [Platzi](https://platzi.com)
 > Curso donde aprenderas a manejar Git y Github para mejorar tu salario.
 
