@@ -8,3 +8,4 @@ Blog de prueba para el [Curso de Git y Github](https://platzi.com/cursos/git-git
 * Las buenas practicas
 * Trucos para Git
 
+> Creado por Manu
