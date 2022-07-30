@@ -10,4 +10,4 @@ Blog de prueba para el [Curso de Git y Github](https://platzi.com/cursos/git-git
 
 > Creado por Manu
 
-Incluye ejemplos en windows
+Incluye ejemplos en windows, linux y mac
